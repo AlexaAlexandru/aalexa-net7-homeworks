@@ -1,0 +1,5 @@
+Hello, am creat acest fișier folosind  Touch 
+
+Fișierul a fost adaugat prin Git add .
+
+Mai adăugăm un comment aici :)
