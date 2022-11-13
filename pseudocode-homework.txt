@@ -35,7 +35,7 @@ Step 8: Throw inside the trash container your garbage
 Step 9: DONE
 
 -------------------
-Sorting algorithm	: Sort the array following array with the complexity of Ο(n2), whereas n is the number of items.
+Sorting algorithm	
 
 
 Step 1 : we check numbers by couples and see if the first is smaller than the second
