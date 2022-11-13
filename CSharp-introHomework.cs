@@ -33,7 +33,4 @@ Console.WriteLine("Multiplication = " + mult + " ");
 
 // exercise 2
 
-int num5 = 33;
-int num6 = 11;
-int num7 = 25;
 
