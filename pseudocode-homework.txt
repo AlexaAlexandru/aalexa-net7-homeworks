@@ -74,3 +74,24 @@ We check by couples and see with one is greater, if the second is greater we lea
 10 | 14 |  33 | 35 | 10|  <----  FINAL Algorithm
 
 ------------------------------ 
+
+Write algorithm. Point 4.1
+
+DISPLAY ( insert your amount )
+
+amount <- INPUT ()
+
+tax = 0.005 * amount * 10
+
+IF
+	tax < 1 
+
+	OUTPUT ( 1 )
+ELSE
+
+	OUTPUT ( tax )
+
+
+
+
+Write algorithm. Point 4.2 
