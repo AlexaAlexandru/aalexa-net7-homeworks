@@ -107,6 +107,57 @@ ELSE
 	OUTPUT ( tax )
 
 
-
+------------------------------
 
 Write algorithm. Point 4.2 
+
+
+DISPLAY ( insert your amount )
+
+amount <- INPUT ()
+
+total = amount/ 500 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 500 " );
+
+amount = amount - ( total * 500 ) :
+
+total = amount / 200 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 200 " );
+
+amount = amount - ( total * 200 ) :
+
+total = amount / 100 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 100 " );
+
+amount = amount - ( total * 100 ) :
+
+total = amount / 50 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 50 " );
+
+amount = amount - ( total * 50 ) :
+
+total = amount / 20 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 20 " );
+
+amount = amount - ( total * 20 ) :
+
+total = amount / 10 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 10 " );
+
+amount = amount - ( total * 10 ) :
+
+total = amount / 5 ;
+
+OUTPUT ( "There are : " , total , " banknotes of 5 " );
+
+amount = amount - ( total * 5 ) :
+
+total = amount / 1;
+
+OUTPUT ( "There are : " , total , " banknotes of 1 " );
