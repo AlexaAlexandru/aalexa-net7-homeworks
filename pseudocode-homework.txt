@@ -37,9 +37,24 @@ Step 9: DONE
 -------------------
 Sorting algorithm	: Sort the array following array with the complexity of Ο(n2), whereas n is the number of items.
 
-Given array: 14 | 33 |  27 | 35 | 10|
 
-We check by couples and see with one is greater, if the second is greater we leave as it is, is it's smaller it will switch place with the first.
+Step 1 : we check numbers by couples and see if the first is smaller than the second
+Step 2 : IF step 1 is true go to step 3
+	 ELSE switch the second number with the first one.
+Step 3 : Check the next couple of numbers ( number 2 and number 3, number 3 and number 4 etc , till the end of the array by applying the same rule of step 1.
+	 Perform step 2 for every couple.
+Step 4 : At the last pair of numbers
+	 IF the second number is bigger than the first we switch place with the first.
+Step 5 : We check the next couple of numbers going backwards, by applying the same rule of step 4.
+
+Step 6 : We arrive to the first pair of numbers
+	 We verify that the first numbers is smaller than the second one, the second one smaller than 	
+	 the third one and so on, till the last number.
+Step 7 : DONE
+
+
+Example 
+Given array: 14 | 33 |  27 | 35 | 10|
 
 14 < 33 TRUE 
 
