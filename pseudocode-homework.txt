@@ -74,19 +74,19 @@ Given array: 14 | 33 |  27 | 35 | 10|
 
 33 < 10 FALSE
 
-14 | 27 |  10 | 33 | 10|  <---- Algorithm
+14 | 27 |  10 | 33 | 35|  <---- Algorithm
 
 27 < 10 FALSE
 
-14 | 10 |  27 | 35 | 10|  <---- Algorithm
+14 | 10 |  27 | 33 | 35|  <---- Algorithm
 
 14 < 10 FALSE
 
-10 | 14 |  33 | 35 | 10|  <---- Algorithm
+10 | 14 |  27 | 33 | 35|  <---- Algorithm
 
 10 < 14 TRUE
 
-10 | 14 |  33 | 35 | 10|  <----  FINAL Algorithm
+10 | 14 |  27 | 33 | 35|  <----  FINAL Algorithm
 
 ------------------------------ 
 
