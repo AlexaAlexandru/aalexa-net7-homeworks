@@ -34,4 +34,43 @@ Step 7: IF trash container is full
 Step 8: Throw inside the trash container your garbage
 Step 9: DONE
 
+-------------------
+Sorting algorithm	: Sort the array following array with the complexity of Ο(n2), whereas n is the number of items.
 
+Given array: 14 | 33 |  27 | 35 | 10|
+
+We check by couples and see with one is greater, if the second is greater we leave as it is, is it's smaller it will switch place with the first.
+
+14 < 33 TRUE 
+
+ 14 | 33 |  27 | 35 | 10| <---- Algorithm
+
+33 < 27 FALSE
+ 
+ 14 | 27 |  33 | 35 | 10| <---- Algorithm
+
+33 < 35 TRUE
+
+14 | 27 |  33 | 35 | 10|  <---- Algorithm
+
+35 < 10 FALSE
+
+14 | 27 |  33 | 10 | 35|  <---- Algorithm
+
+33 < 10 FALSE
+
+14 | 27 |  10 | 33 | 10|  <---- Algorithm
+
+27 < 10 FALSE
+
+14 | 10 |  27 | 35 | 10|  <---- Algorithm
+
+14 < 10 FALSE
+
+10 | 14 |  33 | 35 | 10|  <---- Algorithm
+
+10 < 14 TRUE
+
+10 | 14 |  33 | 35 | 10|  <----  FINAL Algorithm
+
+------------------------------ 
