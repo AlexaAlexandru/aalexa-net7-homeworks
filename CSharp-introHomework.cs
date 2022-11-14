@@ -123,3 +123,52 @@ max = (num1 >num2 && num1> num3) ? num1: (num2>num3) ? num2: (num3);
 
 Console.WriteLine(" Minumum number is: " + min);
 Console.WriteLine(" Maximum number is: " + max);
+
+// Exercise 5
+
+Console.WriteLine("Enter the Physics mark: ");
+string input1 = Console.ReadLine();
+int phy=Convert.ToInt32(input1);
+Console.WriteLine("Enter the Chemistry mark: ");
+string input2 = Console.ReadLine();
+int che=Convert.ToInt32(input2);
+Console.WriteLine("Enter the Biology mark: ");
+string input3 = Console.ReadLine();
+int bio=Convert.ToInt32(input3);
+Console.WriteLine("Enter the Mathematics mark: ");
+string input4 = Console.ReadLine();
+int mat=Convert.ToInt32(input4);
+Console.WriteLine("Enter the Computer Science  mark: ");
+string input5 = Console.ReadLine();
+int comp=Convert.ToInt32(input5);
+
+double percentage;
+string grade;
+percentage = (phy + che + bio + mat + comp) / 5;
+grade = "grade";
+if (percentage >= 90)
+{
+    grade="A";
+}
+
+else if (percentage >= 80)
+{
+    grade = "B";
+}
+else if (percentage >= 70)
+{
+    grade = "C";
+}
+else if (percentage >= 60)
+{
+    grade = "D";
+}
+else if (percentage >= 40)
+{
+    grade = "E";
+}
+else if (percentage < 40)
+{
+    grade = "F";
+}
+Console.WriteLine(" Percentage = " + percentage + " and grade is " + grade);
