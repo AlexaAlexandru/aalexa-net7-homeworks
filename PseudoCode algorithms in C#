@@ -1,0 +1,13 @@
+//Algoritm 1 written in C#
+string input = Console.ReadLine();
+int amount=Convert.ToInt32(input);
+
+double tax = 0.005 * amount * 10;
+if (tax<1)
+{
+    Console.WriteLine("Fee will be 1 dollar");
+}
+else
+{
+    Console.WriteLine("Fee will be : " + tax);
+}
