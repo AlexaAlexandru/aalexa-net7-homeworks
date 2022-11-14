@@ -85,3 +85,24 @@ else
 		Console.WriteLine("Maximum number is " + num3);
 	}
 }
+
+// Exercise 3
+using System;
+
+string input = Console.ReadLine();
+int number=Convert.ToInt32(input);
+
+int year, month, day;
+
+year = number / 365;
+month = (number - (year *365)) / 30 ;
+day = number - (year * 365) - (month * 30);
+
+if (year==1 && month == 1)
+{
+    Console.WriteLine(" 1 Year , 1 month , " + cday + "  days ");
+}
+else
+{
+    Console.WriteLine(year + "Years  ," +  month + "  months" +  day + "  days ");
+}
