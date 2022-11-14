@@ -31,6 +31,57 @@ Console.WriteLine("Subtraction = " + sub + " ");
 Console.WriteLine("Division = " + div + " ");
 Console.WriteLine("Multiplication = " + mult + " ");
 
-// exercise 2
+//Exercise 2
 
+string input1= Console.ReadLine();
+int num1= Convert.ToInt32(input1);
+string input2=Console.ReadLine();   
+int num2=Convert.ToInt32(input2);
+string input3=Console.ReadLine();
+int num3=Convert.ToInt32(input3);
 
+if (num1 < num2)
+{
+    if (num1 < num3)
+    {
+        Console.WriteLine("Minimum number is " + num1);
+    }
+    else
+    {
+        Console.WriteLine("Minimum number is " + num3);
+    }
+}
+else
+{
+    if (num2 < num3)
+    {
+        Console.WriteLine("Minimum number is " + num2);
+    }
+    else
+    {
+        Console.WriteLine("Minimum number is " + num3);
+    }
+}
+
+if (num1>num2)
+{
+	if (num1>num3)
+	{
+		Console.WriteLine("Maximum number is " + num1);
+	}
+	else
+	{
+		Console.WriteLine("Maximum number is " + num3);
+	}
+}
+else
+{
+	if (num2>num3)
+	{
+		Console.WriteLine("Maximum number is" + num2);
+	}
+	else
+	{
+		Console.WriteLine("Maximum number is " + num3);
+	}
+}
