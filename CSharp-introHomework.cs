@@ -106,3 +106,20 @@ else
 {
     Console.WriteLine(year + "Years  ," +  month + "  months" +  day + "  days ");
 }
+
+// Exercise 4
+
+string input1 = Console.ReadLine();
+int num1 = Convert.ToInt32(input1);
+string input2 = Console.ReadLine();
+int num2 = Convert.ToInt32(input2);
+string input3 = Console.ReadLine();
+int num3 = Convert.ToInt32(input3);
+
+int max, min;
+
+min = (num1 < num2 && num1 < num3) ? num1 : (num2 < num3) ? num2 : (num3);
+max = (num1 >num2 && num1> num3) ? num1: (num2>num3) ? num2: (num3);
+
+Console.WriteLine(" Minumum number is: " + min);
+Console.WriteLine(" Maximum number is: " + max);
