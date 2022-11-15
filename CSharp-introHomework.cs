@@ -172,3 +172,32 @@ else if (percentage < 40)
     grade = "F";
 }
 Console.WriteLine(" Percentage = " + percentage + " and grade is " + grade);
+
+//Exercise 6
+
+char grades;
+string notes;
+Console.WriteLine("Insert your grade : ");
+string input = Console.ReadLine();
+grades=Convert.ToChar(input);
+notes = ".";
+switch (grades)
+{
+	case 'E':
+		notes = "Excellent";
+		break;
+    case 'V':
+        notes = "Very good";
+        break;
+    case 'G':
+        notes = "Good";
+        break;
+    case 'A':
+        notes = "Average";
+        break;
+    case 'F':
+        notes = "Fail";
+        break;
+}
+
+Console.WriteLine(notes);
