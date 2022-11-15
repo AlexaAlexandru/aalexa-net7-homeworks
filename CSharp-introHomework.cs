@@ -253,3 +253,32 @@ switch (num)
 
 Console.WriteLine(month);
 
+//Exercise 8 
+
+Console.WriteLine("Insert the temperature in centigrade ");
+string input=Console.ReadLine();
+double temp =Convert.ToDouble(input);
+if (temp<0.0)
+{
+    Console.WriteLine("Freezing weather");
+}
+else if ( temp>=0 && temp < 10)
+{
+    Console.WriteLine("Very Cold weather");
+}
+else if (temp >= 10 && temp < 20)
+{
+    Console.WriteLine("Cold weather");
+}
+else if (temp >= 20 && temp < 30)
+{
+    Console.WriteLine(" Normal in Temp");
+}
+else if (temp >= 30 && temp < 40)
+{
+    Console.WriteLine("Hot");
+}
+else
+{
+    Console.WriteLine("Very Hot");
+}
