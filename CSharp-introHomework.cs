@@ -282,3 +282,46 @@ else
 {
     Console.WriteLine("Very Hot");
 }
+
+// exercise 9
+
+// + used when I sum something 
+int a, b;
+a = 1;
+b = 4;
+int sum= a + b;
+
+// - used when i need a difference
+
+int dif = a - b;
+// * used when I need the product
+
+int pro = a * b;
+// / used when i need the division
+
+double div = a / b;
+
+// % used then i need the modulo 
+
+double mod= a % b;
+
+// ++ it increments its operand by 1.
+
+int i = 5;
+Console.WriteLine(i);
+Console.WriteLine(i++);
+Console.WriteLine(i);
+// -- decrements its operand by 1. opposite of increment
+// += it s an assignment operator and it adds the value of the right operand to the left one
+
+int num1 = 3;
+int num2 = 4;
+
+num2 += num1; // it s going to be num2= num2 + num1 / 4+3 = 7
+
+Console.WriteLine(num2);
+// -= it s an assignment operator and it subtract the value of the right operand to the left one
+
+num2 -= num1; // it s going to be num2= num2 - num1 / 4-3=1
+
+Console.WriteLine(num2);
