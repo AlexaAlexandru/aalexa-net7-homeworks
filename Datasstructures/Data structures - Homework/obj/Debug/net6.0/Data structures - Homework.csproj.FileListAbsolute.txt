@@ -1,0 +1,15 @@
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/bin/Debug/net6.0/Data structures - Homework
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/bin/Debug/net6.0/Data structures - Homework.deps.json
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/bin/Debug/net6.0/Data structures - Homework.runtimeconfig.json
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/bin/Debug/net6.0/Data structures - Homework.dll
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/bin/Debug/net6.0/Data structures - Homework.pdb
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.csproj.AssemblyReference.cache
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.AssemblyInfoInputs.cache
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.AssemblyInfo.cs
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.csproj.CoreCompileInputs.cache
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.dll
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/refint/Data structures - Homework.dll
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.pdb
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/Data structures - Homework.genruntimeconfig.cache
+/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/Debug/net6.0/ref/Data structures - Homework.dll
