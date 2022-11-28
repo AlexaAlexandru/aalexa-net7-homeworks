@@ -106,7 +106,7 @@ namespace Data_structures___Homework
             bool condition1 = (a >= 0 && rest == 0);
             bool condition2 = (a >= 0 && rest == 0);
 
-            if (condition1 || condition2)
+            if (condition1 ==true)
             {
                 Console.WriteLine("Checked");
             }

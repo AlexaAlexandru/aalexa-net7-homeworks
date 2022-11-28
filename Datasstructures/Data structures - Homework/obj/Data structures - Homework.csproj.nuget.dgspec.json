@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/Data structures - Homework.csproj": {}
+    "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Datasstructures/Data structures - Homework/Data structures - Homework.csproj": {}
   },
   "projects": {
-    "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/Data structures - Homework.csproj": {
+    "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Datasstructures/Data structures - Homework/Data structures - Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/Data structures - Homework.csproj",
+        "projectUniqueName": "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Datasstructures/Data structures - Homework/Data structures - Homework.csproj",
         "projectName": "Data structures - Homework",
-        "projectPath": "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/Data structures - Homework.csproj",
+        "projectPath": "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Datasstructures/Data structures - Homework/Data structures - Homework.csproj",
         "packagesPath": "/Users/alexandrualexa/.nuget/packages/",
-        "outputPath": "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Data structures - Homework/Data structures - Homework/obj/",
+        "outputPath": "/Users/alexandrualexa/Documents/NET/aalexa-net7-homeworks/Datasstructures/Data structures - Homework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexandrualexa/.nuget/NuGet/NuGet.Config"
