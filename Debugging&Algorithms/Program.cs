@@ -17,3 +17,12 @@ ex4.go();
 
 var ex5 = new exercise5();
 ex5.go();
+
+var algorithm1 = new AlgorithmInsertion();
+algorithm1.Main();
+
+var algorithm2 = new AlgorithmQuicksort();
+algorithm2.Main();
+
+var algorithm3 = new SearchAlgorithm();
+algorithm3.Main();
