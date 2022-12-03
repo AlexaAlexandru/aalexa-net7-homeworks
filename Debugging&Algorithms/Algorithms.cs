@@ -132,9 +132,12 @@ namespace Debugging_Algorithms
 				}
 				if (array[mid]>x)
 				{
-                    return binarySearch(array, l, mid - 1, x);
-                    return binarySearch(array, mid + 1, r, x);
-                }
+                    			return binarySearch(array, l, mid - 1, x);
+            			}
+				else
+				{
+					return binarySearch(array, mid + 1, r, x);
+				}
             }
 			return -1;
 		}
