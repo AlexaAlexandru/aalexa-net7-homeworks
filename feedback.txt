@@ -1,0 +1,7 @@
+Hello, am creat acest fișier prin comenzi folosind  Touch 
+
+Fișierul a fost adaugat prin Git add .
+
+Mai adăugăm un comment aici :)
+
+comentariul asta e scris pe github.com, aduc updates in local prin comanda pull
