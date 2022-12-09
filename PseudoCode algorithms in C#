@@ -1,0 +1,41 @@
+//Algorithm 1 written in C#
+string input = Console.ReadLine();
+int amount=Convert.ToInt32(input);
+
+double tax = 0.005 * amount * 10;
+if (tax<1)
+{
+    Console.WriteLine("Fee will be 1 dollar");
+}
+else
+{
+    Console.WriteLine("Fee will be : " + tax);
+}
+
+
+// Algorithm 2 written in C#
+string input = Console.ReadLine();
+int amount =Convert.ToInt32(input);
+int total = amount / 500;
+Console.WriteLine("There are: " + total + " banknotes of 500");
+amount = amount - (total* 500);
+total = amount / 200;
+Console.WriteLine("There are: " + total + " banknotes of 200");
+amount= amount - (total * 200); 
+total = amount / 100;
+Console.WriteLine("Thee are: " + total + " banknotes of 100 ");
+amount = amount - (total * 100);
+total = amount / 50;
+Console.WriteLine("Thee are: " + total + " banknotes of 50 ");
+amount = amount - (total * 50);
+total = amount / 20;
+Console.WriteLine("Thee are: " + total + " banknotes of 20 ");
+amount = amount - (total * 20);
+total = amount / 10;
+Console.WriteLine("Thee are: " + total + " banknotes of 10 ");
+amount = amount - (total * 10);
+total = amount / 5;
+Console.WriteLine("Thee are: " + total + " banknotes of 5 ");
+amount = amount - (total * 5);
+total = amount / 1;
+Console.WriteLine("Thee are: " + total + " banknotes of 1 ");
