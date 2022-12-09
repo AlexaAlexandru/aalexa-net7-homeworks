@@ -1,0 +1,15 @@
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/bin/Debug/net6.0/Debugging&Algorithms
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/bin/Debug/net6.0/Debugging&Algorithms.deps.json
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/bin/Debug/net6.0/Debugging&Algorithms.runtimeconfig.json
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/bin/Debug/net6.0/Debugging&Algorithms.dll
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/bin/Debug/net6.0/Debugging&Algorithms.pdb
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.csproj.AssemblyReference.cache
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.AssemblyInfoInputs.cache
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.AssemblyInfo.cs
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.csproj.CoreCompileInputs.cache
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.dll
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/refint/Debugging&Algorithms.dll
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.pdb
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/Debugging&Algorithms.genruntimeconfig.cache
+/Users/alexandrualexa/Documents/NET/Projects/Debugging&Algorithms/obj/Debug/net6.0/ref/Debugging&Algorithms.dll
